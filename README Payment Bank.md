@@ -34,8 +34,9 @@ In this program, there are 2 class.
             3. balance = This method views the customer's bank balance by inputting the bank account number and shares the balance. 
             4. withdraw = This method is used to withdraw money from the customer's account. 
 	    		  It takes the account number and amount from the user and subtracts it from the customer_balance.
-            5. transfer = This method transfers money from customer account number 1 to customer account number 2 (or vice versa). It takes 
-	    		  the amount from the user, subtracts it from the payee's customer_balance, and adds it to the recipient account. 
+            5. transfer = This method transfers money from customer account number 1 to customer account number 2 (or vice versa). 
+	    		  It takes the amount from the user, subtracts it from the payee's customer_balance, 
+			  and adds it to the recipient account. 
 
 
 
