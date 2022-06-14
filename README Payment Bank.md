@@ -27,7 +27,7 @@ In this program, there are 2 class.
             1. create = In the method, the system will take the name as input to create a bank account and share the account number. 
 	
         Have used @staticmethod decorator as staticmethod knows nothing about the class and deals with the parameters 
-	(it is bound to the class and not the object of the class).
+		(it is bound to the class and not the object of the class).
         
             2. deposit = This method is used to deposit money in the customer's account. 
 	    		 It takes the amount from the user and adds it to the customer_balance.
